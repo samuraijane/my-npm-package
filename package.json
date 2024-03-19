@@ -8,9 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "dotenv": "^16.4.5"
-  },
   "publishConfig": {
     "registry": "https://artifacts-687814362945.d.codeartifact.us-east-1.amazonaws.com/npm/sj-test-repo/"
   }
